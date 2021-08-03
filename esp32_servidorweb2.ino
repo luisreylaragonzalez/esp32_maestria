@@ -2,8 +2,8 @@
 // Enciende y apaga LED. Botones.
 
 #include <WiFi.h>
-const char* ssid = "Estoicos";
-const char* password = "*Andromeda_$23";
+const char* ssid = "";
+const char* password = "";
 
 WiFiServer server(80);
 
