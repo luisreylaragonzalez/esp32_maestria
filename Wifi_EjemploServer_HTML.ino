@@ -62,7 +62,7 @@ void loop() {
    client.println("<h2><font color='#009900'>Universidad Politécnica de Juventino Rosas </font></h2>");
   client.println("<h3>Página web.</h3>");
   client.println("<br><br>");
-  client.println("<img src='http://luisreylara.ga/upjr.png'><br>");
+  client.println("<img src='http://www.upjr.edu.mx/resources/img/logo_upjr.png'><br>");
  // client.println("<a href='juan'><button>Juan </button></a>");
  // client.println("<a href='antonio'><button>Antonio </button></a>"); 
  client.println("<a href='a'><button>Envía la letra a</button></a>");
