@@ -25,9 +25,16 @@
 ###   - Efecto Hall, Youtube https://www.youtube.com/watch?v=XR132WlIENo&list=PL2xmtLUbEugnUoLiRTqwCm5wi2MSzsw3D&index=5
 
 ## Bluetooth
-###   - Practicas de Bluetooth
+###   - Diagrama de bloques del módulo de Bluetooth
+###   - Practicas de Bluetooth con ESP32
 ###   - App en Android para recibir y enviar información por Bluetooth
-###   -  
 
-## Core 
-###   - 
+## Serial
+###   - Diagrama de bloques del módulo de RS32-USB
+###   - Practicas del puerto Serial con ESP32
+
+## Esp32 Dual Core 
+###   - Practicas con Core 1 y Core 2
+###   - Youtube: https://www.youtube.com/watch?v=k_D_Qu0cgu8
+
+
