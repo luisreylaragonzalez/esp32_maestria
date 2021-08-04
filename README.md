@@ -30,8 +30,8 @@
 ###   - App en Android para recibir y enviar información por Bluetooth
 
 ## Serial
-###   - Diagrama de bloques del módulo de RS32-USB
-###   - Practicas del puerto Serial con ESP32
+###   - Diagrama de bloques del módulo de RS232-USB
+###   - Practicas del puerto Serial con ESP232
 
 ## Esp32 Dual Core 
 ###   - Practicas con Core 1 y Core 2
