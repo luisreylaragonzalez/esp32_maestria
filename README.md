@@ -19,6 +19,8 @@
 
 ## WiFi 
 ###   - Ejemplos WiFi
+###   - Servidor WEB en ESP32
+###   - Insertar imágenes en el Servidor WEB en la ESP32
 
 ## Efecto Hall
 ###   - Efecto Hall, explicación y ejemplo http://www.sinaptec.alomar.com.ar/2018/06/esp32-desde-cero-tutorial-5-sensor-de.html
@@ -41,12 +43,3 @@
 ###   - ESP32_Two_LED_Asynchron
 ###   - ESP32_Two_LED_Synchron
 ###   - ESP32_WhichCore
-
-
-
-
-
-
-
-
-
