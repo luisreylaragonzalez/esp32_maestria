@@ -22,6 +22,7 @@
 
 ## Efecto Hall
 ###   - Efecto Hall, explicación y ejemplo http://www.sinaptec.alomar.com.ar/2018/06/esp32-desde-cero-tutorial-5-sensor-de.html
+###   - Efecto Hall, Youtube https://www.youtube.com/watch?v=XR132WlIENo&list=PL2xmtLUbEugnUoLiRTqwCm5wi2MSzsw3D&index=5
 
 ## Bluetooth
 ###   - Practicas de Bluetooth
