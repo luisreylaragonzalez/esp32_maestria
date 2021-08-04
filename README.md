@@ -36,7 +36,13 @@
 ## Dual Core 
 ###   - Practicas con Core 1 y Core 2
 ###   - Youtube: https://www.youtube.com/watch?v=k_D_Qu0cgu8
-###   - Practicas con diferentes Core
+###   - ESP32_ShowCore
+###   - ESP32_SpeedTest
+###   - ESP32_Two_LED_Asynchron
+###   - ESP32_Two_LED_Synchron
+###   - ESP32_WhichCore
+
+
 
 
 
