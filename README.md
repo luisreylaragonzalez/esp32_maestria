@@ -45,3 +45,9 @@
 ###   - ESP32_WhichCore
 
 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
+
+Client ID
+amzn1.application-oa2-client.e657715ab8e443a6935cea148e9b9559
+
+Client secret
+4992a4daae4713b62fdfbc96905989391290e6c83db9bede8b135dd550f50a11
