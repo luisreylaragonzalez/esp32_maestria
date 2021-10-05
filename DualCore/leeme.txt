@@ -1,0 +1,2 @@
+
+https://randomnerdtutorials.com/esp32-dual-core-arduino-ide/
