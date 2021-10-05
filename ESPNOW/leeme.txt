@@ -3,3 +3,9 @@ https://www.youtube.com/watch?v=qxwXwNS3Avw
 
 Protocolo de comunicación ESP-NOW (tarjeta ESP32).
 https://www.youtube.com/watch?v=sX9pH0OYbKg
+
+Getting Started with ESP-NOW (ESP8266 NodeMCU with Arduino IDE)
+https://randomnerdtutorials.com/esp-now-esp8266-nodemcu-arduino-ide/
+
+ESP-NOW Two-Way Communication Between ESP32 Boards
+https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
