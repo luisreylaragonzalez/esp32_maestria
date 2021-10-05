@@ -1,0 +1,5 @@
+ESP-NOW with ESP32 EXPLAINED: Easiest Wireless Communication Between Boards (ESP8266 Compatible)
+https://www.youtube.com/watch?v=qxwXwNS3Avw
+
+Protocolo de comunicación ESP-NOW (tarjeta ESP32).
+https://www.youtube.com/watch?v=sX9pH0OYbKg
