@@ -7,3 +7,8 @@ https://www.youtube.com/watch?v=e8-b5LKKf2M
 ULP1 Deep Sleep esp32 3 de 3
 https://www.youtube.com/watch?v=08m7sgDL_IM
 
+Resumen de Deep Sleep
+https://www.youtube.com/watch?v=rHC6glvMGF4
+
+ModeSleep 2
+https://www.youtube.com/watch?v=gMwuZTnl47Q&t=337s
