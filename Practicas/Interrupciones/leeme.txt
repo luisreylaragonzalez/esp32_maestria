@@ -1,0 +1,5 @@
+Las Interrupciones en el ESP32
+https://www.youtube.com/watch?v=syuLWPUeDNQ
+
+https://github.com/ingeniero-yt/ESP32-basicos/tree/master/Interrupciones
+
