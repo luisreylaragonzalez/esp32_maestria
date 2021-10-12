@@ -14,7 +14,7 @@ Serial.begin(112500);
 delay(1000);
 ```
 
-Then, we will create the tasks, with a call to the xTaskCreate function. The arguments to this function are the following [1]:
+Then, we will create the tasks, with a call to the **xTaskCreate** function. The arguments to this function are the following [1]:
 
 # TaskCode: 
 In this argument, we need to pass a pointer to the function that will implement the task. We will create two functions, TaskOne and TaskTwo, which we will define latter and will be passed in this argument.
