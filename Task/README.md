@@ -8,10 +8,10 @@ For most of the functionalities that we are going to use in this tutorial, you c
 The setup and loop code
 We will start our setup function by opening a serial connection, in order to be able to get the output of our testing program. This will be our regular Arduino function.
 
-  
+```
 Serial.begin(112500);
 delay(1000);
-  
+```
 
 Then, we will create the tasks, with a call to the xTaskCreate function. The arguments to this function are the following [1]:
 
