@@ -9,3 +9,6 @@ https://randomnerdtutorials.com/esp-now-esp8266-nodemcu-arduino-ide/
 
 ESP-NOW Two-Way Communication Between ESP32 Boards
 https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
+
+Que es ESP-NOW?
+https://www.electrosoftcloud.com/esp-now-conecta-dos-o-mas-esp32-esp8266/
