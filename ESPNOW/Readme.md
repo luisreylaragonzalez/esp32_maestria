@@ -15,7 +15,8 @@ Largo alcance, pudiendo superar los 200m en campo abierto.
 El número de clientes con encriptación está limitado. Esta limitación es de 10 clientes para el modo Estación, 6 como mucho en modo punto de acceso o modo mixto.
 El número total de clientes con y sin encriptación sin encriptación es del 20.
 Sólo se pueden enviar 250 bytes como mucho.
-En palabras simples, ESP-Now es un protocolo de comunicación que nos permitirá intercambiar pequeños mensajes (hasta 250 bytes), entre nuestros microcontroladores ESP. Este protocolo es muy versátil y nos permitirá realizar conexiones en una dirección o en ambas direcciones, en diferentes configuraciones.
+En palabras simples, ESP-Now es un protocolo de comunicación que nos permitirá intercambiar pequeños mensajes (hasta 250 bytes), entre nuestros microcontroladores ESP. 
+Este protocolo es muy versátil y nos permitirá realizar conexiones en una dirección o en ambas direcciones, en diferentes configuraciones.
  ```
 ## Tipos de comunicación
  ```
