@@ -21,7 +21,9 @@ Este protocolo es muy versátil y nos permitirá realizar conexiones en una dire
 ## Tipos de comunicación
  ```
 Comunicación ESP-Now en una dirección
-Este tipo de comunicación se compone de uno o varios dispositivos ESP que funcionarán como maestros y esclavos. La comunicación la iniciará el dispositivo o dispositivos maestros, y será recibida por el o los esclavos. Entre las diferentes configuraciones de las que disponemos para la configuración en una dirección, podemos distinguir las siguientes:
+Este tipo de comunicación se compone de uno o varios dispositivos ESP que funcionarán como maestros y esclavos. 
+La comunicación la iniciará el dispositivo o dispositivos maestros, y será recibida por el o los esclavos. 
+Entre las diferentes configuraciones de las que disponemos para la configuración en una dirección, podemos distinguir las siguientes:
   ```
 ## Un maestro y un esclavo
 ## Un maestro y varios esclavos
