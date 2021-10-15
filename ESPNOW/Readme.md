@@ -1,3 +1,4 @@
+Link: https://www.electrosoftcloud.com/esp-now-conecta-dos-o-mas-esp32-esp8266/
 
 # ESP-NOW
 En esta ocasión te hablaré del protocolo ESP-Now, el cual podremos usarlo en nuestros mirocontroladores ESP32, ESP8266, y seguramente en el resto de familia ESP. ESP-Now es un protocolo de comunicación entre varios dispositivos creado por Espressif, el cual es similar al utilizado en los dispositivos de baja energía que funcionan en la banda de 2.4Ghz. Su funcionamiento requiere de emparejamiento de los dispositivos, pero una vez hecho la conexión será automática.
