@@ -54,7 +54,7 @@
 esp_now_peer_info_t slaves[NUMSLAVES] = {};
 int SlaveCnt = 0;
 
-#define CHANNEL 3
+#define CHANNEL 1
 #define PRINTSCANRESULTS 0
 
 // Init ESP Now with fallback
