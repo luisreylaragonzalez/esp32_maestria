@@ -12,3 +12,10 @@ https://www.youtube.com/watch?v=Tb1t6GKJ0r0&list=RDCMUCqxBxJnwt2JTwPM2c0kx0Yw&in
 
 ## Instalar Mosquitto 2.0 en Windows 10
 ## https://www.youtube.com/watch?v=cL6n3wafWEQ
+
+
+## ESP32 MQTT – Publish and Subscribe with Arduino IDE
+## https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+
+https://www.emqx.com/en/blog/esp32-connects-to-the-free-public-mqtt-broker
+ESP32 connects to the free public MQTT broker
